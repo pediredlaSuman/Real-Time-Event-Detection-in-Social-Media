@@ -29,7 +29,11 @@ With the explosion of social media data, detecting real-world events in real-tim
 
 ## 🗂️ System Architecture
 
-![System Architecture](https://user-images.githubusercontent.com/placeholder/system-architecture.png) <!-- Replace with actual image if available -->
+<img width="681" height="545" alt="image" src="https://github.com/user-attachments/assets/e7131ffc-cc6d-4a81-a6d6-780379c11286" />
+<img width="670" height="545" alt="image" src="https://github.com/user-attachments/assets/4337f8d6-b06d-4e55-bc6a-97c3b71256ab" />
+
+<img width="845" height="669" alt="image" src="https://github.com/user-attachments/assets/ce6a19c4-6bd4-4908-a807-f3e71161010d" />
+<!-- Replace with actual image if available -->
 
 **Figure**: End-to-end pipeline from Kafka producer to Mahout-based topic extraction.
 
@@ -47,7 +51,8 @@ With the explosion of social media data, detecting real-world events in real-tim
    - Extract topic-wise word distributions
 5. **Trend Analysis**: Plot histogram, bar graph, and temporal line graph from LDA output.
 
----
+<img width="539" height="413" alt="image" src="https://github.com/user-attachments/assets/2f8353bc-c8c9-4571-9535-5687322f508c" />
+
 
 ## 📈 Results
 
@@ -79,9 +84,10 @@ With the explosion of social media data, detecting real-world events in real-tim
 - **Bar Graph**: Top keywords per topic
 - **Line Graph**: Topic trends over time
 
-![Sample Graph](https://user-images.githubusercontent.com/placeholder/sample-graph.png) <!-- Replace with real image -->
+<img width="549" height="1029" alt="image" src="https://github.com/user-attachments/assets/f77f76e8-00ee-487c-a4f7-e1967c129d17" />
 
----
+
+
 
 ## ⚙️ How to Run (Simulation Setup)
 
